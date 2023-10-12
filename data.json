@@ -1,11 +1,16 @@
-[ "apps" {
-    "nombre": "facebook",
-    "color": "blue"
-}, {
-    "nombre": "yotube",
-    "color": "red"
-}, {
-    "Nombre": "Whatsapp",
-    "color": "orange"
+{
+    "apps": [
+        {
+            "nombre": "facebook",
+            "color": "blue"
+        },
+        {
+            "nombre": "yotube",
+            "color": "red"
+        },
+        {
+            "Nombre": "Whatsapp",
+            "color": "orange"
+        }
+    ]
 }
-]
